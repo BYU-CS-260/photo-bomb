@@ -41,11 +41,4 @@ On Canvas, submit the URL for your website, which should be running on your Digi
 
 ## Rubric for Grading
 
-When we grade these labs, we will award points using the following
-rubric:
-
-| Item                                                                                         | Points |
-| -------------------------------------------------------------------------------------------- | ------ |
-| The material in the tutorial works. Add ten photos of your own from at least two different accounts to demonstrate this. | 70     |
-| Photo page meets requirements                                                                | 10     |
-| Comments meet requirements                                                                   | 20     |
+Please see Canvas for the rubric.
